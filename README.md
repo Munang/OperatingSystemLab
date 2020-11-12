@@ -1,7 +1,7 @@
 # OperatingSystemLab
 
 #### Source code using in CSOS Lab
-#### If you need to using these source, please write 'Munang'
+#### If you need to using these source, please write 'Munang' top of the source code
 
 *************************************************************************************************
 
