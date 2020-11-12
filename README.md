@@ -7,9 +7,13 @@
 
 #### Structure of directory and configuration
 
-> Source   
+> Source
+
+
 > >Dex_Parsing_source_code   
 > > >dex_data_section_only : Parsing dex file code, It has every field of Android Dex file header. You can using for parsing per section.   
+
+
 > >Family_classification_code   
 > > >api_merge_permission : This is a code that concatenates extracted api information and permission information.   
 > > >api_merge_permission_to_img : This is the code that converts the previously concatenate code into an image.   
