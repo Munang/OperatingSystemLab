@@ -1,4 +1,5 @@
-# OperatingSystemLab
+# Munang_OperatingSystemLab
+# Using CNN Project
 
 #### Source code using in CSOS Lab
 #### If you need to using these source, please write 'Munang' top of the source code
