@@ -21,3 +21,6 @@
 > > >code_item_to_img : This is the code that extracts the code item section inside the dex file and converts it into an image. Code sections were extracted separately using dex dumps.   
 > > >extract_dex_file : This is the code that extracts the dex file inside apk.   
 > > >inverter_from_binary : This code converts a binary file to an image.   
+
+
+*************************************************************************************************
