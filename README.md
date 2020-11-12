@@ -2,7 +2,7 @@
 ### Using CNN Project
 
 #### Source code using in CSOS Lab
-#### If you need to using these source, please refer 'Munang'.
+#### If you need to using these source, please remark 'Munang'.
 
 *************************************************************************************************
 
